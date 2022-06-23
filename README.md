@@ -18,3 +18,4 @@ and it will send all information to webhook about computer and bookmarks from br
 ![image](https://user-images.githubusercontent.com/98951386/175253244-5dd7a9dd-7a49-4005-ae18-e0bc6f6413b6.png)
 # -change your link to ip grabber in line 50
 ![image](https://user-images.githubusercontent.com/98951386/175253324-a0a2b0e6-ead1-4e04-bb76-7a2cabf1b07d.png)
+# and send it to target
