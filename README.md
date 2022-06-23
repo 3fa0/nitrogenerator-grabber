@@ -1,4 +1,4 @@
-# nitrogenerator-grabber
+# nitrogenerator-simplegrabber
 Grabber in Free Nitro Generator
 # how it works
 paste your own discord webhook in .bat
